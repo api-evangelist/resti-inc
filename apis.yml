@@ -22,7 +22,7 @@ accessModel:
   generated: '2026-07-22'
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/resti-inc.png
-name: Resti Inc.
+name: Resti
 description: 'Resti Inc. (resti.cloud) is a cloud-based restaurant management platform
   used by restaurant chains, primarily across Kazakhstan and Central Asia. It automates
   HR and payroll (salary calculation from actual hours worked), operational checklists
@@ -81,3 +81,4 @@ x-enrichment:
   status: minimal
   artifacts_added: 1
   pass: local-v1
+x-legal-name: Resti Inc.
